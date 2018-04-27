@@ -25,7 +25,7 @@ description: My first jekyll forked site!
 navbar-links:
   About Me: "aboutme"
   Resources:
-    <!-- - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/" -->
+    # - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Connected Seeds: "https://github.com/nandadoes/cs-sensor-unit/"
     - Shoes: "http://www.markdowntutorial.com/"
     - Icebreaker jacket: "https://pages.github.com/"
