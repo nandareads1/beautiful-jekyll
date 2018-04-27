@@ -25,9 +25,12 @@ description: My first jekyll forked site!
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
+    <!-- - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/" -->
+    - Connected Seeds: "https://github.com/nandadoes/cs-sensor-unit/"
+    - Shoes: "http://www.markdowntutorial.com/"
+    - Icebreaker jacket: "https://pages.github.com/"
+    - Icebreaker t-shirt: "https://pages.github.com/"
+    - Vibrosign armband: "https://pages.github.com/"
   Author's home: "http://deanattali.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
