@@ -1,16 +1,15 @@
 ---
 layout: page
 title: Plublications
-subtitle: Why you'd want to go on a date with me
+subtitle: some writing
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Khaorapapong, N., Cox, D. & Purver, M. (2013). Augmenting Real-World Social Networking with Vibrotactile Display. Work-in-Progress paper, to appear in the 7th International Conference on Tangible, Embedded and Embodied Interaction (TEI 2013), Barcelona, Spain.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Khaorapapong N., & Purver, M. (2012). Designing Unobtrusive Interfaces to Increase Naturalness of First Time Face-To-Face Interaction. In the 5th International Workshop on Semantic Ambient Media Experience (SAME 2012) – Special Theme 2012 “Unobtrusive Semantic Ambient Media Beyond the Screen and Pixels”, Newcastle, UK.
 
-What else do you need?
+Khaorapapong N., & Purver, M. (2012). An Assistive Device for Shy Users in Face-to-Face Communication. Presented at the Doctoral Consortium session, 16th annual International Symposium on Wearable Computers, Newcastle, UK.
 
-### my history
+Khaorapapong N., & Purver, M. (2012). Icebreaker T-shirt: a Wearable Device for Easing Face-to-Face Interaction. Presented at 16th International Symposium on Wearable Computers, Newcastle, UK.
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Khaorapapong, N. (2010). Making the Human Heart a Medium for Social Interaction. Presentation at ISEA 2010 Conference, Smart Interface session. Ruhr, Germany, August 2010
