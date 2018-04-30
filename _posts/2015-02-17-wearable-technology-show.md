@@ -1,4 +1,3 @@
-IBJ v2: Wearable Tech Show
 ---
 layout: post
 title: Icebreaker Jacket
