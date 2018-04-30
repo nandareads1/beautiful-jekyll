@@ -5,11 +5,10 @@ subtitle: here's my history
 ---
 
 ### Nanda Khaorapapong
-PhD candidate
-Media and Arts Technology Doctoral Training Centre
-Cognitive Sciences Research Group
-Antennas and Microwave Research Group
-School of Electronic Engineering and Computer Science
+PhD candidate  
+Media and Arts Technology Doctoral Training Centre  
+Cognitive Sciences Research Group  
+School of Electronic Engineering and Computer Science  
 Queen Mary University of London
 
 ### Email
