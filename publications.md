@@ -14,4 +14,4 @@ Khaorapapong N., & Purver, M. (2012). An Assistive Device for Shy Users in Face-
 
 Khaorapapong N., & Purver, M. (2012). Icebreaker T-shirt: a Wearable Device for Easing Face-to-Face Interaction. Presented at 16th International Symposium on Wearable Computers, Newcastle, UK.
 
-Khaorapapong, N. (2010). Making the Human Heart a Medium for Social Interaction. Presentation at ISEA 2010 Conference, Smart Interface session. Ruhr, Germany, August 2010
+Khaorapapong, N. (2010). Making the Human Heart a Medium for Social Interaction. Presentation at ISEA 2010 Conference, Smart Interface session. Ruhr, Germany.
