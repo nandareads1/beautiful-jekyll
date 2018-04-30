@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Submit thesis
-image: /img/softBoundThesis-cropped.jpg
+bigimage: /img/softBoundThesis-cropped.jpg
 tags: [writing, research]
 ---
 
