@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Plublications
+title: Publications
 subtitle: some writing
 ---
 
